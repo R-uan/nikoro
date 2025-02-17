@@ -1,0 +1,29 @@
+{
+  "name": "nikoro-dark",
+  "displayName": "Nikoro Dark",
+  "description": "Theme for me yipee... but I guess you could use it too (˶˃⤙˂˶)",
+  "publisher": "rw1c",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/R-uan/nikoro"
+  },
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "keywords": [
+    "theme", "dark theme", "dark"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nikoro Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nikoro Dark-color-theme.json"
+      }
+    ]
+  }
+}
