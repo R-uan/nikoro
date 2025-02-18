@@ -1,3 +1,5 @@
+I suck at choosing colors. So you're welcome to make suggestions on how to make them harmonize (?).
+
 # Nikoro Dark
 
 | color# |Base       |Darker     |Lighter    |
